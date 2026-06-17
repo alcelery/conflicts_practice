@@ -1,7 +1,4 @@
 name: Student
-<<<<<<< HEAD
 role: frontend developer
-=======
 role: backend developer
->>>>>>> conflict-01-role-backend
 status: active
